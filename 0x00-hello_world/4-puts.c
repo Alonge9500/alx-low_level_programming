@@ -8,7 +8,7 @@
  *
  *main - Entry point
  *
- *
+ * Description: 'Program main description' 
  *
  *Return: Always 0 (Success)
  *
