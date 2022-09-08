@@ -2,6 +2,8 @@
 
 
 
+
+
 /*
  *
  *main - Entry point
@@ -15,7 +17,7 @@
 int main(void)
 
 {
-	/* This is function main */
+/* This is function main */
 
 		puts("\"Programming is like building a multilingual puzzle");
 
